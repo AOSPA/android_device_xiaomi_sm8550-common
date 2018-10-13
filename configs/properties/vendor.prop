@@ -71,6 +71,9 @@ ro.vendor.nfc.repair=1
 ro.vendor.se.type=HCE,UICC
 
 # Telephony
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.dbg.wfc_avail_ovr=1
 persist.vendor.radio.redir_party_num=0
 ro.vendor.radio.build_profile=u-stable
 
