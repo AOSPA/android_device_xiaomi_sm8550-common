@@ -17,4 +17,7 @@
 <resources>
     <!-- App Name -->
     <string name="app_name">Xiaomi Parts</string>
+
+     <!-- Thermal Profile -->
+    <string name="thermal_profile_toggle_title">Thermal profile</string>
 </resources>
