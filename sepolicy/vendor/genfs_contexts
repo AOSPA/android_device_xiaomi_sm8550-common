@@ -14,9 +14,10 @@ genfscon sysfs "/devices/virtual/touch/tp_dev/fod_status" u:object_r:sysfs_tp_fo
 genfscon sysfs "/class/qcom-battery/reverse_chg_mode" u:object_r:sysfs_powershare:s0
 
 # Touchscreen
-genfscon sysfs "/devices/virtual/touch/touch_dev/gesture_double_tap_enable" u:object_r:sysfs_tp_touchfeature:s0
+genfscon sysfs "/devices/virtual/touch/touch_dev/fod_longpress_gesture_enabled" u:object_r:sysfs_tp_touchfeature:s0
+genfscon sysfs "/devices/virtual/touch/touch_dev/gesture_double_tap_enabled" u:object_r:sysfs_tp_touchfeature:s0
 genfscon sysfs "/devices/virtual/touch/touch_dev/gesture_double_tap_state" u:object_r:sysfs_tp_touchfeature:s0
-genfscon sysfs "/devices/virtual/touch/touch_dev/gesture_single_tap_enable" u:object_r:sysfs_tp_touchfeature:s0
+genfscon sysfs "/devices/virtual/touch/touch_dev/gesture_single_tap_enabled" u:object_r:sysfs_tp_touchfeature:s0
 genfscon sysfs "/devices/virtual/touch/touch_dev/gesture_single_tap_state" u:object_r:sysfs_tp_touchfeature:s0
 
 # Wakeup
