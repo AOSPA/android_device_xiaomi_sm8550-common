@@ -16,6 +16,24 @@
       "message": "This is already in wlan component",
       "revId": "62e87d4aaaa34180446c90389918480c9ff11bec",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "059123b2_1667a92e",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 1000468
+      },
+      "writtenOn": "2024-09-04T12:20:09Z",
+      "side": 1,
+      "message": "no, it\u0027s not",
+      "parentUuid": "706d975e_7858f7aa",
+      "revId": "62e87d4aaaa34180446c90389918480c9ff11bec",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
