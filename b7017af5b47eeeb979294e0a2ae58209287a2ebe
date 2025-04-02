@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "249036d4_9bdc1032",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2025-04-02T11:34:47Z",
+      "side": 1,
+      "message": "Bonus: Its passthrough charging",
+      "revId": "b7017af5b47eeeb979294e0a2ae58209287a2ebe",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
