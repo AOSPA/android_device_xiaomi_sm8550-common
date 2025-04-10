@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "acd80029_976f97ff",
+        "filename": "common.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 1000468
+      },
+      "writtenOn": "2025-04-10T20:00:10Z",
+      "side": 1,
+      "message": "can just add android.hardware.biometrics.face.prebuilt.xml in product_packages",
+      "revId": "ead440d602a8d47eb03d77ab770ccb95a6713d9e",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
